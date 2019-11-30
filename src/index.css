@@ -1,0 +1,21 @@
+#navTitle {
+    color: white;
+    font-size: x-large;
+}
+#CVcore {
+    background-color: rgba(236, 253, 255, 0.98);
+    width: 100%;
+}
+* {
+    font-family: 'Lato', sans-serif;
+}
+#CVcore h4 {
+    font-size: larger;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+.title {
+
+}
+.elementFormation * {
+}

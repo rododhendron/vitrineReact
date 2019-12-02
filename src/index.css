@@ -14,8 +14,30 @@
     margin-left: 1em;
     margin-top: 1em;
 }
+#CVcore h5 {
+    margin-top: 1em;
+}
+#CVcore h3 {
+    text-align: center;
+}
+#ExpPro h4, #ExpPro h5{
+    margin-top: 0em;
+}
+#ProContent{
+    margin-top: 1em;
+}
+.p1 {
+    background-color: #8c8c8c;
+}
+#CVcore row {
+    margin: 10px;
+}
 .title {
-
+    text-align: center;
 }
 .elementFormation * {
+}
+#paraDel {
+    margin-top: 1.5em;
+    margin-bottom: 0;
 }
